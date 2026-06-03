@@ -4,7 +4,14 @@
 *.obj
 *.out
 a.out
+a.exe
 build/
+
+# 로컬 테스트 입출력 (백준 제출 전 검증용, 커밋 불필요)
+input.txt
+output.txt
+**/input.txt
+**/output.txt
 
 # Python (있으면)
 __pycache__/

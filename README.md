@@ -8,7 +8,7 @@
 문제 선정 기준: **Formal**(정석 형식) + **대표 문제**(알고리즘의 canonical) + **알아야 하는 문제**(필수).
 
 ### 🩹 Bronze ~ Silver 2 — 재활 모드
-- `solutions/`에 **길라잡이 C++ 파일** 생성: 자료구조/입출력 골격 + `// TODO` 빈칸 + 단계별 주석 힌트
+- `problems/`에 **길라잡이 C++ 파일** 생성: 자료구조/입출력 골격 + `// TODO` 빈칸 + 단계별 주석 힌트
 - 빈칸을 채우며 감 되찾기 → 막히면 "힌트"로 추가 설명
 
 ### ⚔️ Silver 1 ~ Gold — 실전 모드
@@ -53,8 +53,9 @@
 
 ## 폴더 구조
 ```
-solutions/
-  bronze/   10818_최솟값과최댓값.cpp
+문제집.md                # 레벨별 10문제 큐 (Bronze/Silver/Gold)
+problems/
+  bronze/   10818_최솟값과최댓값.cpp ...
   silver/
   gold/
 study_materials/         # 알고리즘 개념 정리 (정렬/BFS/DFS/구현/그리디/이분탐색/DP)
@@ -62,6 +63,7 @@ study_materials/         # 알고리즘 개념 정리 (정렬/BFS/DFS/구현/그
 .vscode/                 # 빌드/IntelliSense 설정
 ```
 파일명 규칙: `문제번호_문제이름.cpp`
+> 전체 풀이 순서는 [문제집.md](문제집.md) 참고.
 
 ## 로컬 빌드 환경 (Windows / g++)
 - 컴파일러: **MinGW-w64 g++ 16.1.0** (WinLibs, PATH 등록 완료)
