@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++ 빌드",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-O2",
+        "-Wall",
+        "-std=gnu++17",
+        "-static",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "${file}"
+      ],
+      "group": "build",
+      "presentation": { "reveal": "silent", "panel": "shared" },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "C++ 빌드 후 실행 (input.txt)",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "\"${fileDirname}\\${fileBasenameNoExtension}.exe\" < \"${fileDirname}\\input.txt\""
+      ],
+      "dependsOn": "C++ 빌드",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    }
+  ]
+}

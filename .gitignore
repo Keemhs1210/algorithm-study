@@ -1,0 +1,21 @@
+# C++ 빌드 산출물
+*.exe
+*.o
+*.obj
+*.out
+a.out
+build/
+
+# Python (있으면)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Claude Code 로컬(개인) 설정 — 머신별이라 공유 안 함
+.claude/settings.local.json
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+*.swp
