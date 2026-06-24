@@ -13,24 +13,17 @@
 using namespace std;
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    int n;
-    cin >> n;
-
-    int origin = n;
-    int cur = n;
-    int cnt = 0;
-
-    do {
-        int tens = cur / 10;        // 십의 자리
-        int ones = cur % 10;        // 일의 자리
-        int sum = tens + ones;
-        // TODO: cur = (ones * 10) + (sum % 10);
-        cnt++;
-    } while (cur != origin);
-
-    cout << cnt << "\n";
+    int32_t N = 0; 
+    cin >> N;
+    int32_t iCurr = N;
+    int32_t iCnt = 0;
+    do
+    {
+        int32_t iSum = iCurr / 10 + iCurr % 10;
+        iCurr = (iCurr % 10) * 10 + iSum % 10;
+        iCnt++;
+    }while(iCurr != N);
+    
+    cout << iCnt;
     return 0;
 }

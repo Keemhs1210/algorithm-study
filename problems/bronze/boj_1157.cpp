@@ -13,26 +13,9 @@
 using namespace std;
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
+    ios_base::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
 
-    string s;
-    cin >> s;
 
-    int cnt[26] = {0};
-    for (char c : s) {
-        char u = toupper(c);
-        cnt[u - 'A']++;
-    }
-
-    int best = -1, bestIdx = -1;
-    bool tie = false;
-    for (int i = 0; i < 26; i++) {
-        // TODO: cnt[i] > best 이면 best 갱신, bestIdx=i, tie=false
-        //       else if cnt[i] == best 이면 tie=true
-    }
-
-    if (tie) cout << "?\n";
-    else cout << (char)('A' + bestIdx) << "\n";
     return 0;
 }
