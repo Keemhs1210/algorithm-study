@@ -21,8 +21,7 @@ venv/
 
 # Claude Code 로컬(개인) 설정 — 머신별이라 공유 안 함
 .claude/settings.local.json
-# 개인 스킬(노션 개인 트래커 ID 포함) — 공개 레포에 올리지 않음
-.claude/skills/
+# 스킬은 노트북 파리티 위해 커밋함(노션 트래커 ID 포함, 비공개 용도라 OK)
 
 # IDE / OS
 .DS_Store
