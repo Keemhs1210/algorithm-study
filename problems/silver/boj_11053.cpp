@@ -1,0 +1,7 @@
+// 백준 11053 - 가장 긴 증가하는 부분 수열 (Silver 2)
+// https://www.acmicpc.net/problem/11053
+//
+int main() {
+
+    return 0;
+}

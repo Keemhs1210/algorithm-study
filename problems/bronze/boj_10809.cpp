@@ -1,30 +1,31 @@
 // 백준 10809 - 알파벳 찾기 (Bronze 2)
 // https://www.acmicpc.net/problem/10809
 //
-// 목표: 문자열 순회 + 알파벳-인덱스 변환(c - 'a')
-//
-// [아이디어] 각 알파벳 a~z 의 "첫 등장 위치"를 -1로 초기화 후,
-//   문자열을 왼→오로 훑으며 아직 -1인 글자만 현재 인덱스로 채운다.
 
 #include <bits/stdc++.h>
 using namespace std;
-
+constexpr int32_t MAX_NUM_ARR = 26;
+int32_t aiArr[MAX_NUM_ARR] = {0};
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
+    ios_base::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
 
-    string s;
-    cin >> s;
-
-    int pos[26];
-    for (int i = 0; i < 26; i++) pos[i] = -1;
-
-    for (int i = 0; i < (int)s.size(); i++) {
-        int c = s[i] - 'a';
-        // TODO: pos[c] 가 아직 -1이면 i 로 설정 (첫 등장만 기록)
+    string S;
+    cin >> S;
+    fill(aiArr, aiArr + MAX_NUM_ARR, -1);
+    for(int32_t iIdxI = 0; iIdxI < (int32_t)(S.size()); iIdxI++)
+    {
+        int32_t iIdx = S[iIdxI] - 'a';
+        if(aiArr[iIdx] == -1)
+        {
+            aiArr[iIdx] =  iIdxI;       
+        }
     }
 
-    for (int i = 0; i < 26; i++) cout << pos[i] << " ";
-    cout << "\n";
+    for(int32_t iIdxI = 0; iIdxI < MAX_NUM_ARR; iIdxI++)
+    {
+        cout << aiArr[iIdxI] << " "; 
+    }
+   
     return 0;
 }

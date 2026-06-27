@@ -1,20 +1,35 @@
 // 백준 1546 - 평균 (Bronze I)
 // https://www.acmicpc.net/problem/1546
 //
-// 워밍업 목표: 배열에서 최댓값 찾기 + 실수(double) 연산 + 평균 계산
-//
-// [핵심 아이디어]
-//   세준이는 자기 점수 중 최댓값 M을 골라서,
-//   모든 점수를  새점수 = 점수 / M * 100  으로 바꾼다.
-//   바뀐 점수들의 "새 평균"을 출력하면 된다.
-//   즉:  (Σ(점수/M*100)) / N   =   (Σ점수) / M / N * 100
-
 #include <bits/stdc++.h>
+constexpr int32_t MAX_NUM_ARR = 1001;
 using namespace std;
+
+double adArr[MAX_NUM_ARR] = {0, };
 
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
 
+    int32_t N = 0;
+    cin >> N;
+    double dMax = -1;
+    for(int32_t iIdxI = 0; iIdxI < N; iIdxI++)
+    {
+        cin >> adArr[iIdxI];
+        if(adArr[iIdxI] > dMax)
+        {
+            dMax = adArr[iIdxI];
+        }
+    }
+
+    double dSum = 0;
+    for(int32_t iIdxI = 0; iIdxI < N; iIdxI++)
+    {
+        adArr[iIdxI] = (double)(adArr[iIdxI] / dMax) * 100.0; 
+        dSum += adArr[iIdxI];
+    }
+    dSum /= (double)N;
+    printf("%lf", dSum);
     return 0;
 }

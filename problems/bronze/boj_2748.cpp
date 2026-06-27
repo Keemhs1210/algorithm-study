@@ -2,28 +2,33 @@
 // https://www.acmicpc.net/problem/2748
 //
 // 목표: DP(타뷸레이션) 입문 + 오버플로 감각(N=90 이면 int 범위 초과 → long long)
-//
-// [점화식] f(0)=0, f(1)=1, f(n)=f(n-1)+f(n-2)
-//   재귀로 풀면 지수 시간 → 배열에 저장하며 올라가는 bottom-up.
 
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
+constexpr int32_t MAX_NUM_ARR = 100;
+int64_t aiDP[MAX_NUM_ARR] = {0};
+int main()
+{
 
-    int n;
-    cin >> n;
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int32_t N = 0;
+    cin >> N;
 
-    long long dp[91];     // ⚠️ long long! (f(90)은 int 범위 초과)
-    dp[0] = 0;
-    if (n >= 1) dp[1] = 1;
+    int64_t i64Answer = 0;
 
-    for (int i = 2; i <= n; i++) {
-        // TODO: dp[i] = dp[i-1] + dp[i-2];
+    aiDP[0] = 0;
+    aiDP[1] = 1;
+
+    for (int32_t iIdxI = 2; iIdxI <= N; iIdxI++)
+
+    {
+        aiDP[iIdxI] = aiDP[iIdxI - 1] + aiDP[iIdxI - 2];
     }
+    i64Answer = aiDP[N];
 
-    cout << dp[n] << "\n";
+    cout << i64Answer;
     return 0;
 }
