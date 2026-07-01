@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./sol7.exe)",
+      "Bash(python -c ' *)",
+      "Bash(g++ -static -O2 -o win.exe win14889.cpp)",
+      "Bash(./win.exe)",
+      "Bash(./sol.exe)",
+      "Bash(cat)",
+      "Bash(python ref6603.py)",
+      "Bash(python brute1182.py)",
+      "Bash(g++ -static -O2 -o fix.exe fix1182.cpp)",
+      "Bash(python brute1182b.py)",
+      "WebFetch(domain:www.acmicpc.net)",
+      "Bash(python3 -)",
+      "Bash(python -)",
+      "Bash(python brute1912.py)",
+      "Bash(grep -i '\\\\.exe$')",
+      "PowerShell(foreach \\($f in @\\(\"boj_10844\",\"boj_11055\",\"boj_13305\",\"boj_1541\",\"boj_2138\"\\)\\) { $p = \"problems/silver/$f.cpp\"; $lines = \\(Get-Content $p | Measure-Object -Line\\).Lines; Write-Output \"$f : $lines lines\" })"
+    ]
+  }
+}
