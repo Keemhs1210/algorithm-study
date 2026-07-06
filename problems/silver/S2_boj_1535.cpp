@@ -1,6 +1,5 @@
 // 백준 1535 - 안녕 (Silver 2)
 // https://www.acmicpc.net/problem/1535
-// 7주차 7 - L
 
 #include <bits/stdc++.h>
 using namespace std;

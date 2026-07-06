@@ -1,6 +1,5 @@
 // 백준 1940 - 주몽 (Silver 4)
 // https://www.acmicpc.net/problem/1940
-// 1주차 1 - L
 
 #include <bits/stdc++.h>
 using namespace std;

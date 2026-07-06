@@ -1,6 +1,5 @@
 // 백준 1189 - 컴백홈 (Silver 1)
 // https://www.acmicpc.net/problem/1189
-// 3주차 3 - Q
 
 #include <bits/stdc++.h>
 using namespace std;

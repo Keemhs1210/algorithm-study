@@ -1,6 +1,5 @@
 // 백준 1062 - 가르침 (Gold 4)
 // https://www.acmicpc.net/problem/1062
-// 4주차 4 - F
 
 #include <bits/stdc++.h>
 using namespace std;

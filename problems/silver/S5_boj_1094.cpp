@@ -1,6 +1,5 @@
 // 백준 1094 - 막대기 (Silver 5)
 // https://www.acmicpc.net/problem/1094
-// 4주차 4 - G
 
 #include <bits/stdc++.h>
 using namespace std;

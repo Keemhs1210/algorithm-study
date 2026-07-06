@@ -1,6 +1,5 @@
 // 백준 2589 - 보물섬 (Gold 5)
 // https://www.acmicpc.net/problem/2589
-// 3주차 3 - B
 
 #include <bits/stdc++.h>
 using namespace std;

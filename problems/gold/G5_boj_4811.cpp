@@ -1,6 +1,5 @@
 // 백준 4811 - 알약 (Gold 5)
 // https://www.acmicpc.net/problem/4811
-// 7주차 7 - E
 
 #include <bits/stdc++.h>
 using namespace std;

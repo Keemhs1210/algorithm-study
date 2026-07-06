@@ -1,6 +1,5 @@
 // 백준 4659 - 비밀번호 발음하기 (Silver 5)
 // https://www.acmicpc.net/problem/4659
-// 2주차 2 - H
 
 #include <bits/stdc++.h>
 using namespace std;

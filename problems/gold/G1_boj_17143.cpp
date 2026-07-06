@@ -1,6 +1,5 @@
 // 백준 17143 - 낚시왕 (Gold 1)
 // https://www.acmicpc.net/problem/17143
-// 5주차 5 - T
 
 #include <bits/stdc++.h>
 using namespace std;

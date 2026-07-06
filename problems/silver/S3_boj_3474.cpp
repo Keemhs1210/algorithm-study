@@ -1,6 +1,5 @@
 // 백준 3474 - 교수가 된 현우 (Silver 3)
 // https://www.acmicpc.net/problem/3474
-// 2주차 2 - K
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 13244 - Tree (Gold 4)
 // https://www.acmicpc.net/problem/13244
-// 4주차 4 - K
 
 #include <bits/stdc++.h>
 using namespace std;

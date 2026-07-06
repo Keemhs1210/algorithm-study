@@ -1,6 +1,5 @@
 // 백준 11655 - ROT13 (Bronze 1)
 // https://www.acmicpc.net/problem/11655
-// 1주차 1 - F
 
 #include <bits/stdc++.h>
 using namespace std;

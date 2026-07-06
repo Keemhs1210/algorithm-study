@@ -1,6 +1,5 @@
 // 백준 2979 - 트럭 주차 (Bronze 2)
 // https://www.acmicpc.net/problem/2979
-// 1주차 1 - C
 
 #include <bits/stdc++.h>
 using namespace std;

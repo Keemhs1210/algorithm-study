@@ -1,6 +1,5 @@
 // 백준 17623 - 괄호 (Gold 2)
 // https://www.acmicpc.net/problem/17623
-// 8주차 8 - G
 
 #include <bits/stdc++.h>
 using namespace std;

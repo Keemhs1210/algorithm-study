@@ -1,6 +1,5 @@
 // 백준 1238 - 파티 (Gold 3)
 // https://www.acmicpc.net/problem/1238
-// 8주차 8 - R
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 17822 - 원판 돌리기 (Gold 2)
 // https://www.acmicpc.net/problem/17822
-// 5주차 5 - Y
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 4485 - 녹색 옷 입은 애가 젤다지? (Gold 4)
 // https://www.acmicpc.net/problem/4485
-// 8주차 8 - U
 
 #include <bits/stdc++.h>
 using namespace std;

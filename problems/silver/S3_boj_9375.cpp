@@ -1,6 +1,5 @@
 // 백준 9375 - 패션왕 신해빈 (Silver 3)
 // https://www.acmicpc.net/problem/9375
-// 1주차 1 - J
 
 #include <bits/stdc++.h>
 using namespace std;

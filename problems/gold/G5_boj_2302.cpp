@@ -1,6 +1,5 @@
 // 백준 2302 - 극장 좌석 (Gold 5)
 // https://www.acmicpc.net/problem/2302
-// 8주차 8 - E
 
 #include <bits/stdc++.h>
 using namespace std;

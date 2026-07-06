@@ -1,6 +1,5 @@
 // 백준 1159 - 농구 경기 (Bronze 2)
 // https://www.acmicpc.net/problem/1159
-// 1주차 1 - E
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 1781 - 컵라면 (Gold 2)
 // https://www.acmicpc.net/problem/1781
-// 5주차 5 - C
 
 #include <bits/stdc++.h>
 using namespace std;

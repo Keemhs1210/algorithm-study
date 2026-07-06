@@ -1,6 +1,5 @@
 // 백준 14497 - 주난의 난(難) (Gold 4)
 // https://www.acmicpc.net/problem/14497
-// 3주차 3 - J
 
 #include <bits/stdc++.h>
 using namespace std;

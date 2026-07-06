@@ -1,6 +1,5 @@
 // 백준 15662 - 톱니바퀴 (2) (Gold 5)
 // https://www.acmicpc.net/problem/15662
-// 5주차 5 - P
 
 #include <bits/stdc++.h>
 using namespace std;

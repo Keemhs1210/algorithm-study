@@ -1,6 +1,5 @@
 // 백준 16118 - 달빛 여우 (Gold 1)
 // https://www.acmicpc.net/problem/16118
-// 8주차 8 - O
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 13913 - 숨바꼭질 4 (Gold 4)
 // https://www.acmicpc.net/problem/13913
-// 3주차 3 - H
 
 #include <bits/stdc++.h>
 using namespace std;

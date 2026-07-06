@@ -1,6 +1,5 @@
 // 백준 2559 - 수열 (Silver 3)
 // https://www.acmicpc.net/problem/2559
-// 1주차 1 - H
 
 #include <bits/stdc++.h>
 using namespace std;

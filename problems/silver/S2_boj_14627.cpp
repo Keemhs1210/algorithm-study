@@ -1,6 +1,5 @@
 // 백준 14627 - 파닭파닭 (Silver 2)
 // https://www.acmicpc.net/problem/14627
-// 6주차 6 - I
 
 #include <bits/stdc++.h>
 using namespace std;

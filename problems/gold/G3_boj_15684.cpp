@@ -1,6 +1,5 @@
 // 백준 15684 - 사다리 조작 (Gold 3)
 // https://www.acmicpc.net/problem/15684
-// 3주차 3 - O
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 4781 - 사탕 가게 (Gold 4)
 // https://www.acmicpc.net/problem/4781
-// 7주차 7 - I
 
 #include <bits/stdc++.h>
 using namespace std;

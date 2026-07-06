@@ -1,6 +1,5 @@
 // 백준 2109 - 순회강연 (Gold 3)
 // https://www.acmicpc.net/problem/2109
-// 5주차 5 - A
 
 #include <bits/stdc++.h>
 using namespace std;

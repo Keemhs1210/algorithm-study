@@ -1,6 +1,5 @@
 // 백준 3687 - 성냥개비 (Gold 2)
 // https://www.acmicpc.net/problem/3687
-// 7주차 7 - Y
 
 #include <bits/stdc++.h>
 using namespace std;

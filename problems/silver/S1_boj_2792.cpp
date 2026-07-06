@@ -1,6 +1,5 @@
 // 백준 2792 - 보석 상자 (Silver 1)
 // https://www.acmicpc.net/problem/2792
-// 6주차 6 - A
 
 #include <bits/stdc++.h>
 using namespace std;

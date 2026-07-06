@@ -1,6 +1,5 @@
 // 백준 16434 - 드래곤 앤 던전 (Gold 4)
 // https://www.acmicpc.net/problem/16434
-// 6주차 6 - F
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 1613 - 역사 (Gold 3)
 // https://www.acmicpc.net/problem/1613
-// 8주차 8 - Q
 
 #include <bits/stdc++.h>
 using namespace std;

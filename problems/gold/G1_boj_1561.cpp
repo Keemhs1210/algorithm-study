@@ -1,6 +1,5 @@
 // 백준 1561 - 놀이 공원 (Gold 1)
 // https://www.acmicpc.net/problem/1561
-// 6주차 6 - J
 
 #include <bits/stdc++.h>
 using namespace std;

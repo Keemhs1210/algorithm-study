@@ -1,6 +1,5 @@
 // 백준 17070 - 파이프 옮기기 1 (Gold 5)
 // https://www.acmicpc.net/problem/17070
-// 7주차 7 - B
 
 #include <bits/stdc++.h>
 using namespace std;

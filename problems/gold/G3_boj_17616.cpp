@@ -1,6 +1,5 @@
 // 백준 17616 - 등수 찾기 (Gold 3)
 // https://www.acmicpc.net/problem/17616
-// 8주차 8 - Y
 
 #include <bits/stdc++.h>
 using namespace std;

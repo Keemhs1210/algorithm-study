@@ -1,6 +1,5 @@
 // 백준 10942 - 팰린드롬? (Gold 4)
 // https://www.acmicpc.net/problem/10942
-// 7주차 7 - R
 
 #include <bits/stdc++.h>
 using namespace std;

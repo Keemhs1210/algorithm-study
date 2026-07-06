@@ -1,6 +1,5 @@
 // 백준 5430 - AC (Gold 5)
 // https://www.acmicpc.net/problem/5430
-// 4주차 4 - L
 
 #include <bits/stdc++.h>
 using namespace std;

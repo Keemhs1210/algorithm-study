@@ -1,6 +1,5 @@
 // 백준 2852 - NBA 농구 (Silver 3)
 // https://www.acmicpc.net/problem/2852
-// 2주차 2 - L
 
 #include <bits/stdc++.h>
 using namespace std;

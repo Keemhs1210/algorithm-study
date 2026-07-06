@@ -1,6 +1,5 @@
 // 백준 3986 - 좋은 단어 (Silver 4)
 // https://www.acmicpc.net/problem/3986
-// 1주차 1 - M
 
 #include <bits/stdc++.h>
 using namespace std;

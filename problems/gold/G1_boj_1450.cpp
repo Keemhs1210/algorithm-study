@@ -1,6 +1,5 @@
 // 백준 1450 - 냅색문제 (Gold 1)
 // https://www.acmicpc.net/problem/1450
-// 7주차 7 - U
 
 #include <bits/stdc++.h>
 using namespace std;

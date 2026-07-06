@@ -1,6 +1,5 @@
 // 백준 14867 - 물통 (Gold 2)
 // https://www.acmicpc.net/problem/14867
-// 7주차 7 - P
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 2234 - 성곽 (Gold 3)
 // https://www.acmicpc.net/problem/2234
-// 4주차 4 - H
 
 #include <bits/stdc++.h>
 using namespace std;

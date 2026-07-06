@@ -1,6 +1,5 @@
 // 백준 17406 - 배열 돌리기 4 (Gold 4)
 // https://www.acmicpc.net/problem/17406
-// 5주차 5 - O
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 9012 - 괄호 (Silver 4)
 // https://www.acmicpc.net/problem/9012
-// 2주차 2 - N
 
 #include <bits/stdc++.h>
 using namespace std;

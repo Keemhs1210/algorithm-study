@@ -1,6 +1,5 @@
 // 백준 10709 - 기상캐스터 (Silver 5)
 // https://www.acmicpc.net/problem/10709
-// 2주차 2 - J
 
 #include <bits/stdc++.h>
 using namespace std;

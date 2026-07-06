@@ -1,6 +1,5 @@
 // 백준 17471 - 게리맨더링 (Gold 3)
 // https://www.acmicpc.net/problem/17471
-// 4주차 4 - C
 
 #include <bits/stdc++.h>
 using namespace std;

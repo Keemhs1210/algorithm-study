@@ -1,6 +1,5 @@
 // 백준 1103 - 게임 (Gold 2)
 // https://www.acmicpc.net/problem/1103
-// 7주차 7 - C
 
 #include <bits/stdc++.h>
 using namespace std;

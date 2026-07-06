@@ -1,6 +1,5 @@
 // 백준 1213 - 팰린드롬 만들기 (Silver 3)
 // https://www.acmicpc.net/problem/1213
-// 1주차 1 - K
 
 #include <bits/stdc++.h>
 using namespace std;

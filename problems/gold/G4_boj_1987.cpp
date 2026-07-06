@@ -1,6 +1,5 @@
 // 백준 1987 - 알파벳 (Gold 4)
 // https://www.acmicpc.net/problem/1987
-// 4주차 4 - D
 
 #include <bits/stdc++.h>
 using namespace std;

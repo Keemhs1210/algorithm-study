@@ -1,6 +1,5 @@
 // 백준 17297 - Messi Gimossi (Gold 4)
 // https://www.acmicpc.net/problem/17297
-// 8주차 8 - H
 
 #include <bits/stdc++.h>
 using namespace std;

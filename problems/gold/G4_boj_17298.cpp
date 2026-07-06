@@ -1,6 +1,5 @@
 // 백준 17298 - 오큰수 (Gold 4)
 // https://www.acmicpc.net/problem/17298
-// 2주차 2 - T
 
 #include <bits/stdc++.h>
 using namespace std;

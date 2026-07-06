@@ -1,6 +1,5 @@
 // 백준 10808 - 알파벳 개수 (Bronze 4)
 // https://www.acmicpc.net/problem/10808
-// 1주차 1 - B
 
 #include <bits/stdc++.h>
 using namespace std;

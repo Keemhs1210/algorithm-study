@@ -1,6 +1,5 @@
 // 백준 16234 - 인구 이동 (Gold 4)
 // https://www.acmicpc.net/problem/16234
-// 3주차 3 - C
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 5557 - 1학년 (Gold 5)
 // https://www.acmicpc.net/problem/5557
-// 7주차 7 - T
 
 #include <bits/stdc++.h>
 using namespace std;

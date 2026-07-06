@@ -1,6 +1,5 @@
 // 백준 17837 - 새로운 게임 2 (Gold 2)
 // https://www.acmicpc.net/problem/17837
-// 7주차 7 - O
 
 #include <bits/stdc++.h>
 using namespace std;

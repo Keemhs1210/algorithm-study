@@ -1,6 +1,5 @@
 // 백준 15685 - 드래곤 커브 (Gold 3)
 // https://www.acmicpc.net/problem/15685
-// 5주차 5 - U
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 9935 - 문자열 폭발 (Gold 4)
 // https://www.acmicpc.net/problem/9935
-// 5주차 5 - B
 
 #include <bits/stdc++.h>
 using namespace std;

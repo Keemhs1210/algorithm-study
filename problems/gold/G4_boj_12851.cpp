@@ -1,6 +1,5 @@
 // 백준 12851 - 숨바꼭질 2 (Gold 4)
 // https://www.acmicpc.net/problem/12851
-// 3주차 3 - G
 
 #include <bits/stdc++.h>
 using namespace std;

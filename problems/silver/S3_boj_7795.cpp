@@ -1,6 +1,5 @@
 // 백준 7795 - 먹을 것인가 먹힐 것인가 (Silver 3)
 // https://www.acmicpc.net/problem/7795
-// 6주차 6 - D
 
 #include <bits/stdc++.h>
 using namespace std;

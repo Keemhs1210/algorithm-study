@@ -1,6 +1,5 @@
 // 백준 17612 - 쇼핑몰 (Gold 2)
 // https://www.acmicpc.net/problem/17612
-// 8주차 8 - T
 
 #include <bits/stdc++.h>
 using namespace std;

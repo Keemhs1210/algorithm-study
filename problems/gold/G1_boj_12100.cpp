@@ -1,6 +1,5 @@
 // 백준 12100 - 2048 (Easy) (Gold 1)
 // https://www.acmicpc.net/problem/12100
-// 5주차 5 - M
 
 #include <bits/stdc++.h>
 using namespace std;

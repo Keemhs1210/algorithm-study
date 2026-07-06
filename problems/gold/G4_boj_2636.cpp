@@ -1,6 +1,5 @@
 // 백준 2636 - 치즈 (Gold 4)
 // https://www.acmicpc.net/problem/2636
-// 2주차 2 - Q
 
 #include <bits/stdc++.h>
 using namespace std;

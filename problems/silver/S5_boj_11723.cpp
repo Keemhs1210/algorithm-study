@@ -1,6 +1,5 @@
 // 백준 11723 - 집합 (Silver 5)
 // https://www.acmicpc.net/problem/11723
-// 4주차 4 - I
 
 #include <bits/stdc++.h>
 using namespace std;

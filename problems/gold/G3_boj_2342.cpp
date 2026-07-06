@@ -1,6 +1,5 @@
 // 백준 2342 - Dance Dance Revolution (Gold 3)
 // https://www.acmicpc.net/problem/2342
-// 7주차 7 - W
 
 #include <bits/stdc++.h>
 using namespace std;

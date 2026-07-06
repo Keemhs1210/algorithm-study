@@ -1,6 +1,5 @@
 // 백준 1992 - 쿼드트리 (Silver 1)
 // https://www.acmicpc.net/problem/1992
-// 2주차 2 - E
 
 #include <bits/stdc++.h>
 using namespace std;

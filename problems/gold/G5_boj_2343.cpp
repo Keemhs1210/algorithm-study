@@ -1,6 +1,5 @@
 // 백준 2343 - 기타 레슨 (Gold 5)
 // https://www.acmicpc.net/problem/2343
-// 6주차 6 - B
 
 #include <bits/stdc++.h>
 using namespace std;

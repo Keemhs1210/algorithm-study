@@ -1,6 +1,5 @@
 // 백준 2293 - 동전 1 (Gold 4)
 // https://www.acmicpc.net/problem/2293
-// 7주차 7 - H
 
 #include <bits/stdc++.h>
 using namespace std;

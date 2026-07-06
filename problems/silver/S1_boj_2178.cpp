@@ -1,6 +1,5 @@
 // 백준 2178 - 미로 탐색 (Silver 1)
 // https://www.acmicpc.net/problem/2178
-// 2주차 2 - A
 
 #include <bits/stdc++.h>
 using namespace std;

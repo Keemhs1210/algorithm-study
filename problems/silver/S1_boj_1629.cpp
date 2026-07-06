@@ -1,6 +1,5 @@
 // 백준 1629 - 곱셈 (Silver 1)
 // https://www.acmicpc.net/problem/1629
-// 1주차 1 - N
 
 #include <bits/stdc++.h>
 using namespace std;

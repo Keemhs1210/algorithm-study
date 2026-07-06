@@ -1,6 +1,5 @@
 // 백준 2870 - 수학숙제 (Silver 4)
 // https://www.acmicpc.net/problem/2870
-// 2주차 2 - I
 
 #include <bits/stdc++.h>
 using namespace std;

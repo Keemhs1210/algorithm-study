@@ -1,6 +1,5 @@
 // 백준 1072 - 게임 (Silver 3)
 // https://www.acmicpc.net/problem/1072
-// 6주차 6 - G
 
 #include <bits/stdc++.h>
 using namespace std;

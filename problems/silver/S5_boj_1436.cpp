@@ -1,6 +1,5 @@
 // 백준 1436 - 영화감독 숌 (Silver 5)
 // https://www.acmicpc.net/problem/1436
-// 2주차 2 - M
 
 #include <bits/stdc++.h>
 using namespace std;

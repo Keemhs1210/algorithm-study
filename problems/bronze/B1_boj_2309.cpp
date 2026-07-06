@@ -1,6 +1,5 @@
 // 백준 2309 - 일곱 난쟁이 (Bronze 1)
 // https://www.acmicpc.net/problem/2309
-// 1주차 1 - A
 
 #include <bits/stdc++.h>
 using namespace std;

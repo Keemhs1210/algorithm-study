@@ -1,6 +1,5 @@
 // 백준 13144 - List of Unique Numbers (Gold 4)
 // https://www.acmicpc.net/problem/13144
-// 5주차 5 - H
 
 #include <bits/stdc++.h>
 using namespace std;

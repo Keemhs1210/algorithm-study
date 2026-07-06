@@ -1,6 +1,5 @@
 // 백준 4949 - 균형잡힌 세상 (Silver 4)
 // https://www.acmicpc.net/problem/4949
-// 2주차 2 - O
 
 #include <bits/stdc++.h>
 using namespace std;

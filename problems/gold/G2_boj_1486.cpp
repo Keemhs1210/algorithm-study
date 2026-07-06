@@ -1,6 +1,5 @@
 // 백준 1486 - 등산 (Gold 2)
 // https://www.acmicpc.net/problem/1486
-// 8주차 8 - M
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 1513 - 경로 찾기 (Gold 2)
 // https://www.acmicpc.net/problem/1513
-// 7주차 7 - K
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 14502 - 연구소 (Gold 4)
 // https://www.acmicpc.net/problem/14502
-// 2주차 2 - P
 
 #include <bits/stdc++.h>
 using namespace std;

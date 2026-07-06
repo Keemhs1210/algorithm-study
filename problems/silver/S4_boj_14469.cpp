@@ -1,6 +1,5 @@
 // 백준 14469 - 소가 길을 건너간 이유 3 (Silver 4)
 // https://www.acmicpc.net/problem/14469
-// 5주차 5 - D
 
 #include <bits/stdc++.h>
 using namespace std;

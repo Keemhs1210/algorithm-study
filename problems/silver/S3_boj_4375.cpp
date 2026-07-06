@@ -1,6 +1,5 @@
 // 백준 4375 - 1 (Silver 3)
 // https://www.acmicpc.net/problem/4375
-// 1주차 1 - O
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 16235 - 나무 재테크 (Gold 3)
 // https://www.acmicpc.net/problem/16235
-// 7주차 7 - M
 
 #include <bits/stdc++.h>
 using namespace std;

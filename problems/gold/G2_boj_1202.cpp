@@ -1,6 +1,5 @@
 // 백준 1202 - 보석 도둑 (Gold 2)
 // https://www.acmicpc.net/problem/1202
-// 5주차 5 - F
 
 #include <bits/stdc++.h>
 using namespace std;

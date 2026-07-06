@@ -1,6 +1,5 @@
 // 백준 1344 - 축구 (Gold 5)
 // https://www.acmicpc.net/problem/1344
-// 7주차 7 - Q
 
 #include <bits/stdc++.h>
 using namespace std;

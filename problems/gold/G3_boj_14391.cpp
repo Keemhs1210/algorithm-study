@@ -1,6 +1,5 @@
 // 백준 14391 - 종이 조각 (Gold 3)
 // https://www.acmicpc.net/problem/14391
-// 4주차 4 - J
 
 #include <bits/stdc++.h>
 using namespace std;

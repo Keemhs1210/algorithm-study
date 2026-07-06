@@ -1,6 +1,5 @@
 // 백준 9934 - 완전 이진 트리 (Silver 1)
 // https://www.acmicpc.net/problem/9934
-// 3주차 3 - N
 
 #include <bits/stdc++.h>
 using namespace std;

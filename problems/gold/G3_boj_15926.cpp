@@ -1,6 +1,5 @@
 // 백준 15926 - 현욱은 괄호왕이야!! (Gold 3)
 // https://www.acmicpc.net/problem/15926
-// 4주차 4 - O
 
 #include <bits/stdc++.h>
 using namespace std;

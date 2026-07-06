@@ -1,6 +1,5 @@
 // 백준 2098 - 외판원 순회 (Gold 1)
 // https://www.acmicpc.net/problem/2098
-// 7주차 7 - A
 
 #include <bits/stdc++.h>
 using namespace std;

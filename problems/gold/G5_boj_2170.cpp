@@ -1,6 +1,5 @@
 // 백준 2170 - 선 긋기 (Gold 5)
 // https://www.acmicpc.net/problem/2170
-// 5주차 5 - Z
 
 #include <bits/stdc++.h>
 using namespace std;

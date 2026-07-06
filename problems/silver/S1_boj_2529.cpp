@@ -1,6 +1,5 @@
 // 백준 2529 - 부등호 (Silver 1)
 // https://www.acmicpc.net/problem/2529
-// 3주차 3 - M
 
 #include <bits/stdc++.h>
 using namespace std;

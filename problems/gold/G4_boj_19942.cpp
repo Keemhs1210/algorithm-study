@@ -1,6 +1,5 @@
 // 백준 19942 - 다이어트 (Gold 4)
 // https://www.acmicpc.net/problem/19942
-// 4주차 4 - A
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 4179 - 불! (Gold 3)
 // https://www.acmicpc.net/problem/4179
-// 3주차 3 - D
 
 #include <bits/stdc++.h>
 using namespace std;

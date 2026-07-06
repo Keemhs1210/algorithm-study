@@ -1,6 +1,5 @@
 // 백준 1644 - 소수의 연속합 (Gold 3)
 // https://www.acmicpc.net/problem/1644
-// 5주차 5 - G
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 2240 - 자두나무 (Gold 4)
 // https://www.acmicpc.net/problem/2240
-// 7주차 7 - D
 
 #include <bits/stdc++.h>
 using namespace std;

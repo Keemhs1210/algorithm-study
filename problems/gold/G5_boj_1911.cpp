@@ -1,6 +1,5 @@
 // 백준 1911 - 흙길 보수하기 (Gold 5)
 // https://www.acmicpc.net/problem/1911
-// 5주차 5 - Q
 
 #include <bits/stdc++.h>
 using namespace std;

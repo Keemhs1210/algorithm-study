@@ -1,6 +1,5 @@
 // 백준 14890 - 경사로 (Gold 3)
 // https://www.acmicpc.net/problem/14890
-// 4주차 4 - E
 
 #include <bits/stdc++.h>
 using namespace std;

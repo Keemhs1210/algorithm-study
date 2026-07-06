@@ -1,6 +1,5 @@
 // 백준 2828 - 사과 담기 게임 (Silver 5)
 // https://www.acmicpc.net/problem/2828
-// 2주차 2 - F
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 3273 - 두 수의 합 (Silver 3)
 // https://www.acmicpc.net/problem/3273
-// 5주차 5 - I
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,5 @@
 // 백준 14405 - 피카츄 (Silver 5)
 // https://www.acmicpc.net/problem/14405
-// 4주차 4 - M
 
 #include <bits/stdc++.h>
 using namespace std;

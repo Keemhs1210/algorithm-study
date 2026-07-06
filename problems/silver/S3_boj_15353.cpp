@@ -1,6 +1,5 @@
 // 백준 15353 - 큰 수 A+B (2) (Silver 3)
 // https://www.acmicpc.net/problem/15353
-// 4주차 4 - N
 
 #include <bits/stdc++.h>
 using namespace std;

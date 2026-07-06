@@ -1,6 +1,5 @@
 // 백준 2670 - 연속부분최대곱 (Silver 4)
 // https://www.acmicpc.net/problem/2670
-// 6주차 6 - L
 
 #include <bits/stdc++.h>
 using namespace std;

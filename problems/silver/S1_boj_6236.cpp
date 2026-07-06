@@ -1,6 +1,5 @@
 // 백준 6236 - 용돈 관리 (Silver 1)
 // https://www.acmicpc.net/problem/6236
-// 6주차 6 - C
 
 #include <bits/stdc++.h>
 using namespace std;
