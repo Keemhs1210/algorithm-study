@@ -1,0 +1,15 @@
+// 백준 4179 - 불! (Gold 3)
+// https://www.acmicpc.net/problem/4179
+// 3주차 3 - D
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int32_t main()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+    return 0;
+}
