@@ -10,5 +10,19 @@ int32_t main()
     cin.tie(0);
     cout.tie(0);
 
+    int32_t X = 0;
+    int32_t iCnt = 0;
+    cin >> X;
+
+    while(X > 0)
+    {
+        if(X % 2 == 1)
+        {
+            iCnt++;
+        }
+        X /= 2;
+    }
+
+    cout << iCnt;
     return 0;
 }

@@ -10,5 +10,25 @@ int32_t main()
     cin.tie(0);
     cout.tie(0);
 
+    string str;
+    getline(cin, str);
+
+    string answer;
+    for (auto &s : str)
+    {
+        // 소문자
+        if (s >= 'a' && s <= 'z')
+        {
+            s = (s - 'a' + 13) % 26 + 'a';
+        }
+        else if ( s >= 'A' && s <= 'Z')
+        {
+            s = (s - 'A' + 13) % 26 + 'A';
+        }
+        
+        answer += s;
+    }
+
+    cout << answer;
     return 0;
 }
