@@ -10,5 +10,41 @@ int32_t main()
     cin.tie(0);
     cout.tie(0);
 
+    int32_t T = 0;
+
+    cin >> T;
+    while (T--)
+    {
+        string str;
+        stack<char> stStack;
+        cin >> str;
+        for (auto &s : str)
+        {
+            if (s == '(')
+            {
+                stStack.push(s);
+            }
+            else if (s == ')')
+            {
+                if(stStack.size() > 0 && stStack.top() == '(')
+                {
+                    stStack.pop();
+                }
+                else
+                {
+                    stStack.push(s);
+                }
+            }
+        }
+
+        if(stStack.size() == 0)
+        {
+            cout << "YES\n";
+        }
+        else
+        {
+            cout << "NO\n";
+        }
+    }
     return 0;
 }

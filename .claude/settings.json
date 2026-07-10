@@ -18,7 +18,12 @@
       "Bash(grep -i '\\\\.exe$')",
       "PowerShell(foreach \\($f in @\\(\"boj_10844\",\"boj_11055\",\"boj_13305\",\"boj_1541\",\"boj_2138\"\\)\\) { $p = \"problems/silver/$f.cpp\"; $lines = \\(Get-Content $p | Measure-Object -Line\\).Lines; Write-Output \"$f : $lines lines\" })",
       "PowerShell(git push origin main 2>&1)",
-      "Bash(g++ -static -O2 -o C:/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/90ef0a44-e861-4bd5-9c64-69c0a907fa57/scratchpad/sol.exe boj_11055.cpp)"
+      "Bash(g++ -static -O2 -o C:/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/90ef0a44-e861-4bd5-9c64-69c0a907fa57/scratchpad/sol.exe boj_11055.cpp)",
+      "Bash(/c/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/e0a2d764-5a1a-4f71-a0d9-c13ec0d84e36/scratchpad/boj_2293_test.exe)",
+      "Bash(python verify_2293.py)",
+      "Bash(g++ -static -O2 -o /c/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/e0a2d764-5a1a-4f71-a0d9-c13ec0d84e36/scratchpad/boj_2178_test.exe S1_boj_2178.cpp)",
+      "Bash(/c/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/e0a2d764-5a1a-4f71-a0d9-c13ec0d84e36/scratchpad/boj_2178_test.exe)",
+      "Bash(python verify_2178.py)"
     ]
   }
 }

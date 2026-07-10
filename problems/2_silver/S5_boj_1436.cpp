@@ -10,5 +10,22 @@ int32_t main()
     cin.tie(0);
     cout.tie(0);
 
+    int32_t N = 0;
+    cin >> N;
+
+    int32_t iCount = 0;
+    int32_t iNum = 665;
+
+    while(iCount < N)
+    {
+        iNum++;
+        string str = to_string(iNum);
+        if(str.find("666") != string::npos)
+        {
+            iCount++;
+        }
+    }
+    cout << iNum;
+
     return 0;
 }
