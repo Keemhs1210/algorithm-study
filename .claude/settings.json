@@ -23,7 +23,11 @@
       "Bash(python verify_2293.py)",
       "Bash(g++ -static -O2 -o /c/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/e0a2d764-5a1a-4f71-a0d9-c13ec0d84e36/scratchpad/boj_2178_test.exe S1_boj_2178.cpp)",
       "Bash(/c/Users/kimhs/AppData/Local/Temp/claude/c--Users-kimhs-Desktop-KHS-7--Study-algorithm-study/e0a2d764-5a1a-4f71-a0d9-c13ec0d84e36/scratchpad/boj_2178_test.exe)",
-      "Bash(python verify_2178.py)"
+      "Bash(python verify_2178.py)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(ls problems/3_gold/G5_boj_12865.cpp)",
+      "Bash(head -5 problems/3_gold/G5_boj_12865.cpp)"
     ]
   }
 }
