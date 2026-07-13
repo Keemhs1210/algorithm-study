@@ -27,7 +27,9 @@
       "Bash(git fetch *)",
       "Bash(git pull *)",
       "Bash(ls problems/3_gold/G5_boj_12865.cpp)",
-      "Bash(head -5 problems/3_gold/G5_boj_12865.cpp)"
+      "Bash(head -5 problems/3_gold/G5_boj_12865.cpp)",
+      "Bash(git commit *)",
+      "Bash(python -c \"import json; json.load\\(open\\('.claude/settings.json', encoding='utf-8'\\)\\); print\\('JSON OK'\\)\")"
     ]
   }
 }
